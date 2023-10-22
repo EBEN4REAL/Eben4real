@@ -12,6 +12,7 @@ Technologies used:
 - Typescript
 - Vue
 - Next
+- Nuxt
 - Tailwind
 - API integration (REST & GraphQL APIs)
 - Testing (React Testing Library, Jest ad Cypress)
