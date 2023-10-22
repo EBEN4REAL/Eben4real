@@ -19,7 +19,8 @@ Technologies used:
 
 ### ✍️ Writing
 I write content on Software development with JavaScript, ReactJS,  VueJS and so on. Some of my works are:
--[Deploying Front-End Apps To The Amazon Cloud](https://blog.openreplay.com/deploying-front-end-apps-to-the-amazon-cloud/)
+
+- [Deploying Front-End Apps To The Amazon Cloud](https://blog.openreplay.com/deploying-front-end-apps-to-the-amazon-cloud/)
 - [Creating a blob from a base64 string in javascriptg](https://igbinobaebenezer.hashnode.dev/creating-a-blob-from-a-base64-string-in-javascript)
 - [advanced data fetching technique in react for senior engineers](https://igbinobaebenezer.hashnode.dev/advanced-data-fetching-technique-in-react-for-senior-engineers)
 - [getting started with vue](https://igbinobaebenezer.hashnode.dev/getting-started-with-vue)
