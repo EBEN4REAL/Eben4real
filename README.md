@@ -6,7 +6,9 @@ I am an experienced Frontend Engineer. Over the past 5 years I have been privile
 
 ### 📌 Skills
 Languages: JavaScript
+
 Tools: Git & Github, VSCode, Netlify, Vercel
+
 Technologies used:
 - ReactJs
 - Typescript
