@@ -14,6 +14,7 @@ Technologies used:
 - Typescript
 - Vue
 - Next
+- Angular
 - Nuxt
 - Tailwind
 - API integration (REST & GraphQL APIs)
