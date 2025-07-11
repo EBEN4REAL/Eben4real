@@ -2,7 +2,7 @@
 
 He/Him/His
 
-I am an experienced Frontend Engineer. Over the past 5 years I have been privileged to build a ton of web applications and pixel perfect user facing elements that solve seemingly intricate problems and provide exceptional user experiences.
+I am an experienced Frontend Engineer and Blockchain developer. Over the past 5 years I have been privileged to build a ton of web applications and pixel perfect user facing elements that solve seemingly intricate problems and provide exceptional user experiences.
 
 ### 📌 Skills
 Languages: JavaScript
