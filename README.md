@@ -2,10 +2,14 @@
 
 He/Him/His
 
-I am an experienced Frontend Engineer and Blockchain developer. Over the past 7 years I have been privileged to build a ton of web applications and pixel perfect user facing elements that solve seemingly intricate problems and provide exceptional user experiences.
+I’m a Senior Frontend Engineer with over 7 years of experience designing and building scalable, user-centric web applications. I specialize in creating pixel-perfect, high-performance interfaces that solve complex problems and deliver exceptional user experiences. My work spans a variety of industries, where I've led frontend initiatives and contributed to full product lifecycles—from concept to deployment.
+
+In recent years, I’ve developed a deep interest in blockchain technology and have since been actively building decentralized applications (dApps). I’m passionate about leveraging my frontend expertise to bridge the gap between Web2 usability and Web3 innovation, ensuring that decentralized platforms are not only functional but intuitive and accessible.
+
+I’m currently focused on opportunities that blend frontend engineering with cutting-edge blockchain development.
 
 ### 📌 Skills
-Languages: JavaScript
+Languages: JavaScript, Solidity
 
 Tools: Git & Github, VSCode, Netlify, Vercel
 
@@ -19,6 +23,19 @@ Technologies used:
 - Tailwind
 - API integration (REST & GraphQL APIs)
 - Testing (React Testing Library, Jest ad Cypress)
+
+- Solidity
+- Foundry
+- Hardhat
+- Ethers.js
+- Web3.js
+- Wagmi
+- Viem
+- RainbowKit
+- Metamask
+- OpenZepplin
+- ZKSync
+- Alchemy
 
 ### ✍️ Writing
 I write content on Software development with JavaScript, ReactJS,  VueJS and so on. Some of my works are:
