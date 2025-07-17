@@ -53,5 +53,4 @@ I write content on Software development with JavaScript, ReactJS,  VueJS and so 
 - Fun fact: I love seeing movies and playing videos games at my leisure time.
 
 ### 📲 Get in touch
-- [Resume](https://docs.google.com/document/d/1TJPFmCwvrzdeLQ0-Rtaj4C4F5udSbvSFpWohpj5FUS0/edit?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/ebenezer-igbinoba/)
