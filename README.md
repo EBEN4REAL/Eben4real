@@ -15,7 +15,7 @@ In recent years, I’ve ventured deep into **blockchain development**, merging m
 
 ### ⚒️ Skills & Tools
 
-#### **Frontend & Full-stack JavaScript**
+#### 🌐 **End-to-End JavaScript Development**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=white" />
@@ -27,6 +27,7 @@ In recent years, I’ve ventured deep into **blockchain development**, merging m
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 
 #### **Languages / State Management**
 <p>
