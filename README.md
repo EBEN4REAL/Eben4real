@@ -46,7 +46,10 @@ In recent years, I’ve ventured deep into **blockchain development**, merging m
   <img src="https://img.shields.io/badge/Ethers.js-3C873A?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Wagmi-E3E3E3?style=for-the-badge&logo=ethereum&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaMask-f6851b?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-afb5d3?style=for-the-badge&logo=openzeppelin&logoColor=black" />
 </p>
+
 
 #### **Testing & DevOps**
 <p>
