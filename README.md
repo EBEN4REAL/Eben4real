@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Ebenezer Igbinoba</h2>
 <p align="center">
-  <em>Senior Frontend Engineer | Web3 Enthusiast | 7+ Years Building Exceptional Digital Experiences</em>
+  <em>Senior Frontend Engineer | Web3 and Blockchain Developer | 7+ Years Building Exceptional Digital Experiences</em>
 </p>
 
 ---
