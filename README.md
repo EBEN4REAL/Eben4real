@@ -7,7 +7,7 @@
 
 ### 👨🏽‍💻 About Me
 
-I’m a passionate **Senior Frontend Engineer** with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications. I specialize in building **pixel-perfect, high-performance** interfaces using modern web technologies.
+I’m a passionate ** AI driven Senior Frontend Engineer** with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications. I specialize in building **pixel-perfect, high-performance** interfaces using modern web technologies.
 
 In recent years, I’ve ventured deep into **blockchain development**, merging my frontend expertise with decentralized technologies to bridge the gap between **Web2 usability** and **Web3 innovation**. My goal is always the same — _build products that users love_.
 
