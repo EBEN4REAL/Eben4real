@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Ebenezer Igbinoba</h2>
 <p align="center">
-  <em>Senior Frontend Engineer | AI & Web3 Developer | 7+ Years Building Exceptional Digital Experiences</em>
+  <em>AI-Driven Senior Frontend Engineer | Web3 Developer | 7+ Years Building Exceptional Digital Experiences</em>
 </p>
 
 ---
@@ -66,8 +66,6 @@ Building intelligent, context-aware applications that combine LLM reasoning, vec
   <img src="https://img.shields.io/badge/ChromaDB-9C27B0?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 
 ---
