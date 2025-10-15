@@ -1,19 +1,28 @@
+Perfect — your README already looks professional and well structured.
+Here’s an enhanced version with a new **🧠 AI Development** section added between “Web3 Development” and “Testing & DevOps.”
+I also slightly refined your **About Me** section to flow naturally with your AI expertise.
+
+---
+
+```markdown
 <h2 align="center">Hi there 👋, I'm Ebenezer Igbinoba</h2>
 <p align="center">
-  <em>Senior Frontend Engineer | Web3 and Blockchain Developer | 7+ Years Building Exceptional Digital Experiences</em>
+  <em>Senior Frontend Engineer | AI & Web3 Developer | 7+ Years Building Exceptional Digital Experiences</em>
 </p>
 
 ---
 
 ### 👨🏽‍💻 About Me
 
-I’m a passionate AI-driven Senior Frontend Engineer with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications. I specialize in building pixel-perfect, high-performance interfaces using modern web technologies such as React, Vue, and TypeScript.
+I’m a passionate **AI-driven Senior Frontend Engineer** with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications.  
+I specialize in building **pixel-perfect**, **high-performance interfaces** using modern web technologies such as **React**, **Vue**, and **TypeScript**.
 
-In recent years, I’ve ventured deep into AI-powered application development, leveraging LangChain, OpenAI, and vector databases (Pinecone, Chroma) to build intelligent interfaces that understand and respond to users contextually. My focus is on blending the best of frontend engineering with machine intelligence to deliver seamless, human-like digital experiences.
+In recent years, I’ve ventured deep into **AI-powered application development**, leveraging **LangChain**, **OpenAI**, and **vector databases** like **Pinecone** and **Chroma** to build intelligent, context-aware interfaces that understand and respond to users seamlessly.  
+My focus is on blending **frontend engineering excellence with machine intelligence** to deliver **human-like digital experiences**.
 
-I’ve also explored blockchain and Web3 development, merging decentralized technologies with intuitive frontend architectures to bridge the gap between Web2 usability and Web3 innovation.
+I’ve also explored **blockchain and Web3 development**, merging decentralized technologies with intuitive frontend architectures to bridge the gap between **Web2 usability** and **Web3 innovation**.
 
-My ultimate goal remains the same — to build intelligent, high-impact products that users truly love.
+My ultimate goal remains the same — **to build intelligent, high-impact products that users truly love.**
 
 ---
 
@@ -31,7 +40,6 @@ My ultimate goal remains the same — to build intelligent, high-impact products
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
 
 #### **Languages / State Management**
 <p>
@@ -55,7 +63,17 @@ My ultimate goal remains the same — to build intelligent, high-impact products
   <img src="https://img.shields.io/badge/OpenZeppelin-afb5d3?style=for-the-badge&logo=openzeppelin&logoColor=black" />
 </p>
 
-
+#### 🧠 **AI Development**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-0088FF?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-9C27B0?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+</p>
 
 #### **Testing & DevOps**
 <p>
@@ -100,3 +118,8 @@ When I’m not building the web, you’ll usually find me watching movies 🎬 o
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+```
+
+---
+
+Would you like me to also include a short **AI project highlights section** (e.g., your “Chat with PDF using LangChain + OpenAI + Pinecone” app)? It would make the AI section even more compelling for your GitHub visitors.
