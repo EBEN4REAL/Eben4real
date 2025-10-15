@@ -57,16 +57,20 @@ My ultimate goal remains the same — **to build intelligent, high-impact produc
 </p>
 
 #### 🧠 **AI Development**
+Building intelligent, context-aware applications that combine LLM reasoning, vector search, and real-time orchestration.
+
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-0088FF?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-9C27B0?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
+
+---
 
 #### **Testing & DevOps**
 <p>
