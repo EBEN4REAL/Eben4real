@@ -7,9 +7,13 @@
 
 ### 👨🏽‍💻 About Me
 
-I’m a passionate ** AI driven Senior Frontend Engineer** with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications. I specialize in building **pixel-perfect, high-performance** interfaces using modern web technologies.
+I’m a passionate AI-driven Senior Frontend Engineer with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications. I specialize in building pixel-perfect, high-performance interfaces using modern web technologies such as React, Vue, and TypeScript.
 
-In recent years, I’ve ventured deep into **blockchain development**, merging my frontend expertise with decentralized technologies to bridge the gap between **Web2 usability** and **Web3 innovation**. My goal is always the same — _build products that users love_.
+In recent years, I’ve ventured deep into AI-powered application development, leveraging LangChain, OpenAI, and vector databases (Pinecone, Chroma) to build intelligent interfaces that understand and respond to users contextually. My focus is on blending the best of frontend engineering with machine intelligence to deliver seamless, human-like digital experiences.
+
+I’ve also explored blockchain and Web3 development, merging decentralized technologies with intuitive frontend architectures to bridge the gap between Web2 usability and Web3 innovation.
+
+My ultimate goal remains the same — to build intelligent, high-impact products that users truly love.
 
 ---
 
