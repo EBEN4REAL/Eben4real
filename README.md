@@ -1,10 +1,3 @@
-Perfect — your README already looks professional and well structured.
-Here’s an enhanced version with a new **🧠 AI Development** section added between “Web3 Development” and “Testing & DevOps.”
-I also slightly refined your **About Me** section to flow naturally with your AI expertise.
-
----
-
-```markdown
 <h2 align="center">Hi there 👋, I'm Ebenezer Igbinoba</h2>
 <p align="center">
   <em>Senior Frontend Engineer | AI & Web3 Developer | 7+ Years Building Exceptional Digital Experiences</em>
@@ -118,8 +111,3 @@ When I’m not building the web, you’ll usually find me watching movies 🎬 o
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-```
-
----
-
-Would you like me to also include a short **AI project highlights section** (e.g., your “Chat with PDF using LangChain + OpenAI + Pinecone” app)? It would make the AI section even more compelling for your GitHub visitors.
