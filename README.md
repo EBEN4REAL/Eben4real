@@ -1,13 +1,13 @@
 <h2 align="center">Hi there 👋, I'm Ebenezer Igbinoba</h2>
 <p align="center">
-  <em>AI-Driven Senior Frontend Engineer | Web3 Developer | 7+ Years Building Exceptional Digital Experiences</em>
+  <em>AI-Driven Senior Fullstack Engineer | Web3 Developer | 7+ Years Building Exceptional Digital Experiences</em>
 </p>
 
 ---
 
 ### 👨🏽‍💻 About Me
 
-I’m a passionate **AI-driven Senior Frontend Engineer** with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications.  
+I’m a passionate **AI-driven Senior Fullstack Engineer** with over 7 years of experience designing, architecting, and shipping scalable, user-centric web applications.  
 I specialize in building **pixel-perfect**, **high-performance interfaces** using modern web technologies such as **React**, **Vue**, and **TypeScript**.
 
 In recent years, I’ve ventured deep into **AI-powered application development**, leveraging **LangChain**, **OpenAI**, and **vector databases** like **Pinecone** and **Chroma** to build intelligent, context-aware interfaces that understand and respond to users seamlessly.  
