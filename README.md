@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Ebenezer Igbinoba</h2>
 
 <p align="center">
-  <em>Senior Full-Stack Engineer | React • Next.js • Vue.js • Java • Spring Boot • AI/LLMs • Web3</em>
+  <em>Senior Software Engineer | Full-Stack & Backend Engineering | Applied AI, LLMs, RAG & AI Agents | Scalable Systems & Software Architecture | Java, Python, TypeScript</em>
 </p>
 
 <p align="center">
